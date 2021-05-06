@@ -71,11 +71,12 @@ _Statistics realized during the project_
 
 ## Launch the program
 Follow instructions below :
-
-**javac Menu.java**
-
-**java Menu**
-
+```
+javac Menu.java
+```
+```
+java Menu
+```
 Then press "**1**" to start playing. You will have to fill in the name and type for each player in the following form : "**type pseudo**" with type = {human; ia; ia:monkey; ia:pro}.
   
 Have fun !
