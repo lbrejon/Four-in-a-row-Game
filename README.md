@@ -5,7 +5,7 @@ Play four-in-a-row from the terminal against people or AI.
 * [My goals](#my-goals)
 * [Technologies](#technologies)
 * [Description](#description)
-* [Launch the game](#launch-the-game)
+* [Launch the program](#launch-the-program)
 * [Acquired skills](#acquired-skills)
 * [Informations](#informations)
 
@@ -69,14 +69,14 @@ By default, the AI considered is "Random". However, 3 types of AI are available:
 
 _Statistics realized during the project_
 
-## Launch the game
+## Launch the program
 Follow instructions below :
 
-_javac Menu.java_
+**javac Menu.java**
 
-_java Menu_
+**java Menu**
 
-Then press "1" to start playing. You will have to fill in the name and type for each player in the following form : "type pseudo" with type = {human; ia; ia:monkey; ia:pro}.
+Then press "**1**" to start playing. You will have to fill in the name and type for each player in the following form : "**type pseudo**" with type = {human; ia; ia:monkey; ia:pro}.
   
 Have fun !
 
