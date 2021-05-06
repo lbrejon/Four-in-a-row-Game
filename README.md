@@ -70,7 +70,7 @@ By default, the AI considered is "Random". However, 3 types of AI are available:
 _Statistics realized during the project_
 
 ## Launch the game
-Folllow instructions below :
+Follow instructions below :
 
 _javac Menu.java_
 
