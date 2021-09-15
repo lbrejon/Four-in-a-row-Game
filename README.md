@@ -18,6 +18,42 @@ The project is developped with **JAVA**.
 
 ## Project composition 📂
 
+3 directories, 28 files
+```bash
+.
+├── Menu.class
+├── Menu.java
+├── README.md
+├── gamePackage
+│   ├── Game.class
+│   ├── Game.java
+│   ├── Grid.class
+│   ├── Grid.java
+│   ├── interfacePackage
+│   │   ├── BonusMenu.class
+│   │   ├── BonusMenu.java
+│   │   ├── CheckInput.class
+│   │   ├── CheckInput.java
+│   │   ├── Color.class
+│   │   ├── Color.java
+│   │   ├── Display.class
+│   │   ├── Display.java
+│   │   ├── WriteInLog.class
+│   │   └── WriteInLog.java
+│   └── playerPackage
+│       ├── Human.class
+│       ├── Human.java
+│       ├── Ia.class
+│       ├── Ia.java
+│       ├── Monkey.class
+│       ├── Monkey.java
+│       ├── Player.class
+│       ├── Player.java
+│       ├── Pro.class
+│       └── Pro.java
+└── log.txt
+```
+
 ## Description 📋
 Four-in-a-row is a board game where the goal is to align 4 pieces on a grid of 6 rows and 7 columns. A game is played in 3 winning rounds. During each round, each player must choose a column (insert the column number in the terminal) to place his piece (X or O), which will slide to the lowest free position in the grid, leaving the hand to his opponent. **The winner of the round will be the one who manages to align at least 4 of his pieces** (the alignment must be horizontal, vertical or diagonal). 
 Otherwise, if all the squares of the grid are occupied and no one has managed to align 4 checkers, the round will be declared a **draw**.
