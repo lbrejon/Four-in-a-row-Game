@@ -10,15 +10,15 @@ Play four-in-a-row from the terminal against people or AI.
 * [Acquired skills](#acquired-skills)
 * [Informations](#informations)
 
-## My goals
+## My goals 🎯
 - Manipulate object-oriented programming tools
 
-## Programming languages
+## Programming languages 🖥️
 The project is developped with **JAVA**.
 
-## Project composition
+## Project composition 📂
 
-## Description
+## Description 📋
 Four-in-a-row is a board game where the goal is to align 4 pieces on a grid of 6 rows and 7 columns. A game is played in 3 winning rounds. During each round, each player must choose a column (insert the column number in the terminal) to place his piece (X or O), which will slide to the lowest free position in the grid, leaving the hand to his opponent. **The winner of the round will be the one who manages to align at least 4 of his pieces** (the alignment must be horizontal, vertical or diagonal). 
 Otherwise, if all the squares of the grid are occupied and no one has managed to align 4 checkers, the round will be declared a **draw**.
 
@@ -78,7 +78,7 @@ By default, the AI considered is "Random". However, 3 types of AI are available:
   <b>Statistics realized during the project</b><br>
 </p>
 
-## Launch the program
+## Launch the program ▶️
 Follow instructions below :
 ```
 javac Menu.java
@@ -90,9 +90,9 @@ Then press "**1**" to start playing. You will have to fill in the name and type 
   
 Have fun !
 
-## Acquired skills
+## Acquired skills :zap:
 - Concepts and tips from object-oriented programming
 
-## Informations
+## Informations :exclamation:
 This project is an academic project for "PG220 - Projet de programmation orientée objet" during my 2nd year of engineering school at ENSEIRB-MATMECA.
 
