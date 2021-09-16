@@ -3,53 +3,44 @@ Play four-in-a-row from the terminal against people or AI.
 
 ## Table of contents 📝
 * [My goals](#my-goals)
-* [Programming languages](#programming-languages)
+* [Acquired skills](#acquired-skills)
+* [Technologies](#technologies)
 * [Project composition](#project-composition)
 * [Description](#description)
 * [Launch the program](#launch-the-program)
-* [Acquired skills](#acquired-skills)
 * [Informations](#informations)
 
 ## My goals 🎯
 - Manipulate object-oriented programming tools
 
-## Programming languages 🖥️
+## Acquired skills :zap:
+- Concepts and tips from object-oriented programming
+
+## Technologies 🖥️
 The project is developped with **JAVA**.
 
 ## Project composition 📂
-
-3 directories, 28 files
+3 directories, 15 files
 ```bash
 .
-├── Menu.class
-├── Menu.java
 ├── README.md
+│
+├── Menu.java
+│
 ├── gamePackage
-│   ├── Game.class
 │   ├── Game.java
-│   ├── Grid.class
 │   ├── Grid.java
 │   ├── interfacePackage
-│   │   ├── BonusMenu.class
 │   │   ├── BonusMenu.java
-│   │   ├── CheckInput.class
 │   │   ├── CheckInput.java
-│   │   ├── Color.class
 │   │   ├── Color.java
-│   │   ├── Display.class
 │   │   ├── Display.java
-│   │   ├── WriteInLog.class
 │   │   └── WriteInLog.java
 │   └── playerPackage
-│       ├── Human.class
 │       ├── Human.java
-│       ├── Ia.class
 │       ├── Ia.java
-│       ├── Monkey.class
 │       ├── Monkey.java
-│       ├── Player.class
 │       ├── Player.java
-│       ├── Pro.class
 │       └── Pro.java
 └── log.txt
 ```
@@ -126,9 +117,5 @@ Then press "**1**" to start playing. You will have to fill in the name and type 
   
 Have fun !
 
-## Acquired skills :zap:
-- Concepts and tips from object-oriented programming
-
 ## Informations :exclamation:
 This project is an academic project for "PG220 - Projet de programmation orientée objet" during my 2nd year of engineering school at ENSEIRB-MATMECA.
-
